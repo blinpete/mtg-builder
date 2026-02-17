@@ -45,6 +45,8 @@
     "zustand": "^4.5.4"
   },
   "devDependencies": {
+    "@next/bundle-analyzer": "^14.2.15",
+    "@rsdoctor/webpack-plugin": "^0.4.6",
     "@tailwindcss/forms": "^0.5.3",
     "@types/bcrypt": "^5.0.0",
     "@types/node": "20.3.0",
